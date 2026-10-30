@@ -1,10 +1,10 @@
 # shape
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 繼承 / 多型
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[shape.cpp](shape.cpp)、[shape.h](shape.h)
+- **主題**：繼承 / 多型
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[shape.cpp](shape.cpp)、[shape.h](shape.h)
 
 ## 題目
 
