@@ -1,10 +1,10 @@
 # RationalNumber
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 運算子多載
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[RationalNumber.cpp](RationalNumber.cpp)、[RationalNumber.h](RationalNumber.h)
+- **主題**：運算子多載
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[RationalNumber.cpp](RationalNumber.cpp)、[RationalNumber.h](RationalNumber.h)
 
 ## 題目
 
