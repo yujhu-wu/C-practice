@@ -1,10 +1,10 @@
 # HandPoker
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 類別 / 組合
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[HandCards.cpp](HandCards.cpp)、[HandCards.h](HandCards.h)
+- **主題**：類別 / 組合
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[HandCards.cpp](HandCards.cpp)、[HandCards.h](HandCards.h)
 
 ## 題目
 
