@@ -1,10 +1,10 @@
 # PokerCard
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 類別
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[PokerCard.cpp](PokerCard.cpp)、[PokerCard.h](PokerCard.h)
+- **主題**：類別
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[PokerCard.cpp](PokerCard.cpp)、[PokerCard.h](PokerCard.h)
 
 ## 題目
 
