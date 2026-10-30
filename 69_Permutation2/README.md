@@ -1,10 +1,10 @@
 # Permutation2
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 運算子多載
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[Permutation.cpp](Permutation.cpp)、[Permutation.h](Permutation.h)
+- **主題**：運算子多載
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[Permutation.cpp](Permutation.cpp)、[Permutation.h](Permutation.h)
 
 ## 題目
 
