@@ -1,10 +1,10 @@
 # TimeAndDate
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 繼承
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[TimeAndDate.cpp](TimeAndDate.cpp)、[TimeAndDate.h](TimeAndDate.h)
+- **主題**：繼承
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[TimeAndDate.cpp](TimeAndDate.cpp)、[TimeAndDate.h](TimeAndDate.h)
 
 ## 題目
 
