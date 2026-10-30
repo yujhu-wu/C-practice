@@ -1,10 +1,10 @@
 # time
 
-> C/C++ 程式設計練習 · [回到目錄](../README.md)
+> C/C++程式設計練習 · [回到目錄](../README.md)
 
-- **主題：** 類別
-- **語言：** C++
-- **程式碼：** [main.cpp](main.cpp)、[time.cpp](time.cpp)、[time.h](time.h)
+- **主題**：類別
+- **語言**：C++
+- **程式碼**：[main.cpp](main.cpp)、[time.cpp](time.cpp)、[time.h](time.h)
 
 ## 題目
 
